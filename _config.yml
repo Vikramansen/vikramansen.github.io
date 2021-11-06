@@ -1,13 +1,11 @@
 title: Vikraman Senthil Kumar
-url: "http://www.cs.toronto.edu/~aparna/"
-baseurl: "/"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
 
 tracking_id: #
 
-footer: yes
+footer: no
 # footer_url: "https://github.com/ankitsultana"
 footer_text: "Page design courtesty of https://github.com/ankitsultana"
 
