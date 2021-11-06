@@ -8,7 +8,7 @@ layout: default
 
 Hi! I am 4th year engineering student in the Department of Computer Science at the [SRM Institute of Science and Technology]( https://www.srmist.edu.in/). My research is focused on developing machine learning models in the healthcare sector. I have held research intern positions at [SPIHER]( https://spiher.ac.in/) Chennai in 2020, supervised by [Prof. Sikamani]( https://scholar.google.co.in/citations?user=_ftDrIQAAAAJ&hl=en)
 
-Here is my [CV](https://aparna-b.github.io/researcher/resume.pdf).
+Here is my [CV](https://github.com/Vikramansen/vikramansen.github.io/blob/gh-pages/resume.pdf).
 
 ## Research Interests
 
