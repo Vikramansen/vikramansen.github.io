@@ -1,1 +1,27 @@
-remote_theme: ankitsultana/researcher@gem
+title: Aparna Balagopalan
+url: "http://www.cs.toronto.edu/~aparna/"
+baseurl: "/"
+
+markdown: kramdown
+#ins_logo: "./bits-logo.png"
+
+tracking_id: #
+
+footer: yes
+# footer_url: "https://github.com/ankitsultana"
+footer_text: "Page design courtesty of https://github.com/ankitsultana"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "About"
+   link: "/"
+ - name: "Resume"
+   link: "resume.pdf"
+ - name: "Contact"
+   link: "contact"
+ - name: "Reading List"
+   link: "books"
+
