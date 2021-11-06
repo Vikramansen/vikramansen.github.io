@@ -16,7 +16,7 @@ Here is my [CV](https://vikramansen.github.io/resume.pdf).
 Developing and understanding machine learning to extract insights from digital data in high-impact domains, including healthcare. I am currently studying the challenges that arise from the application of deep learning to clinical data. I am learning more about CNNs and supervised learning's applications.
 
 ## Current Project
-- October 2021 - Neurological disorders classifier. 
+- October 2021 - Neurological disorders classification using CNNs
 
 ## Announcements
 
