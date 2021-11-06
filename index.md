@@ -31,25 +31,6 @@ Our paper ["To BERT or Not To BERT: Comparing Speech and Language-based Approach
 1. Balagopalan, A., Eyre, B., Rudzicz, F., Novikova, J. (2020). To BERT or Not To BERT: Comparing Speech and Language-based Approaches for Alzheimer’s Disease Detection. Conference of the International Speech Communication Association (Interspeech) 2020. [/paper/](https://arxiv.org/abs/2008.01551)
 2. Balagopalan, A., Novikova, J., Mcdermott, M.B.A., Nestor, B., Naumann, T. & Ghassemi, M. (2019). Cross-Language Aphasia Detection using Optimal Transport Domain Adaptation. Proceedings of the Machine Learning for Health NeurIPS Workshop, in PMLR 116:202-219. [/paper/](http://proceedings.mlr.press/v116/balagopalan20a/balagopalan20a.pdf)
 
-## Workshop Papers 
-1. Balagopalan, A., Shkaruta, K., Novikova, J., Impact of ASR on Alzheimer's Disease Detection: All Errors are Equal, but Deletions are More Equal than Others, 6th Workshop on Noisy User Generated Text, EMNLP 2020 (Oral Spotlight) [/paper/](https://www.aclweb.org/anthology/2020.wnut-1.21.pdf)
-2. Eyre, B., Balagopalan, A., & Novikova, J. Fantastic Features and Where to Find Them: Detecting Cognitive Impairment with a Subsequence Classification Guided Approach. In Proceedings of the Sixth Workshop on Noisy User-generated Text, EMNLP 2020 [/paper/](https://www.aclweb.org/anthology/2020.wnut-1.25.pdf)
-3. Novikova, J.,Balagopalan, A., Shkaruta, K.,  Rudzicz, F., “Lexical Features Are More Vulnerable, Syntactic Features Have More Predictive Power”, 5th Workshop on Noisy User Generated Text, EMNLP 2019. [/paper/](https://www.aclweb.org/anthology/D19-5556.pdf)
-4. Balagopalan, A., Novikova, J., Rudzicz, F.,  Ghassemi, M., “The Effect of Heterogeneous Data for Alzheimer’s Disease Detection from Speech.”, Machine Learning for Health (ML4H) at NeurIPS 2018. [/paper/](https://arxiv.org/pdf/1811.12254.pdf)
 
 
-## Clinical Abstracts
-1. Balagopalan, A., Kaufman, L. J., Novikova, J., Siddiqui, O., Paul, R., Ward, M. and Simpson, W., “Early Development of a Unified, Speech and Language Composite to Assess Clinical Severity of Frontotemporal Lobar Degeneration (FLTD)”, Clinical Trials in Alzheimer’s Disease (CTAD) 2019.
-2. Simpson, W., Balagopalan, A., Kaufman, L. J., Yeung, A., and Butler, A., “The Use of a Voice-based Digital Biomarker in Patients With Depression ”, International Society for CNS Clinical Trials and Methodology 2019.
-3. Balagopalan, A., Yancheva, M., Novikova, J. and Simpson, W., 2019, “Using Acoustic and Linguistic Markers from Spontaneous Speech to Predict Scores on the Montreal Cognitive Assessment (MoCA). ”, Memory, 20, p.13., 2019.
 
-
-## Book Chapters
-
-1. Seifert, C., Aamir, A.,Balagopalan, A., Jain, D., Sharma, A., Grottel, S.,  Gumhold, S., “Visualizations of Deep Neural Networks in Computer Vision:  A survey”, In Transparent Data Mining for Big and Small Data (pp.  123-144).Springer, Cham., 2017. [/chapter/](https://www.springerprofessional.de/en/visualizations-of-deep-neural-networks-in-computer-vision-a-surv/12273622)
-
-## Teaching Experience
-
-Teaching Assistant, Department of Computer Science, University of Toronto
-1. CSC 458:  Computer Networks, Fall 2017
-2. CSC 358:  Introduction to Computer Networks, Winter 2018
