@@ -1,7 +1,7 @@
 title: Vikraman Senthil Kumar
-link: "https://vikramansen.github.io/"
-markdown: kramdown
-#ins_logo: "./bits-logo.png"
+url: "https://vikramansen.github.io/"
+baseurl: "/"
+
 
 tracking_id: #
 
