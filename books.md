@@ -3,29 +3,28 @@ layout: default
 ---
 
 ## 2021
-1. Five Little Indians by Michelle Good
-2. Transcendent Kingdom by Yaa Gyasi
+1. Deep Work by Cal Newport
+2. Ikigai: The Japanese Secret by Francesc Miralles 
+3. Project Hail Mary by Andy Weir
+4. Snow Crash by Neal Stephenson
 
 ## 2020
 
-1. Exit West by Mohsin Hamid
-2. The Sun Also Rises by Ernest Hemingway
-3. Everything Inside by Edwidge Danticat
-4. The Vanishing Half by Brit Bennett
-5. Winners Take All by Anand Giridharadas
-6. The Idiot by Elif Batuman
-7. Such a Fun Age by Kiley Reid
-8. Whisper Network by Chandler Baker
-9. Where the Crawdads Sing by Delia Owens
-10. Group by Christie Tate 
+1. Shoe Dog by Phil Knight
+2. Prediction Machines by Ajay Agrawal 
+3. The 5 AM Club by Robin Sharma 
+4. Neuromancer by William Gibson
+5. Snow Crash by Neal Stephenson
+6. The Book of Why by Dana Mackenzie and Judea Pearl
+7. Hyperion by Dan Simmons
+8. Deep Medicine by Eric Topol
 
 ## 2019
-1. Happiness: A Memoir by Heather Harpham
-2. Talking to Strangers by Malcolm Gladwell
-3. Other Minds: The Octopus, The Sea, and the Deep Origins of Consciousness by Peter Godfrey-Smith
-4. Weapons of Math Destruction by Cathy O'Neil
-5. Song of Solomon by Toni Morrison
-6. Queenie by Candice Carty-Williams
+1. Count of Monte Christo by Alexandre Dumas
+2. Dune by Frank Herbert
+3. The Martian by Andy Weir
+4. The Singularity Is Near by Ray Kurzweil
+5. Team of Rivals by Doris Kearns Goodwin
 
 
 
