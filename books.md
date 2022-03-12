@@ -1,12 +1,19 @@
 ---
 layout: default
 ---
+## 2022
+
+1. Death on the Nile by Agatha Christie
+2. Whale Done by Ken Blanchard
 
 ## 2021
+
 1. Deep Work by Cal Newport
 2. Ikigai: The Japanese Secret by Francesc Miralles 
 3. Project Hail Mary by Andy Weir
 4. Snow Crash by Neal Stephenson
+5. Hyperion by Dan Simmons
+6. Permanent Record by Edward Snowden
 
 ## 2020
 
@@ -17,8 +24,7 @@ layout: default
 5. Ponniyin Selvan by Kalki Krishnamurthy
 6. Snow Crash by Neal Stephenson
 7. The Book of Why by Dana Mackenzie and Judea Pearl
-8. Hyperion by Dan Simmons
-9. Deep Medicine by Eric Topol
+8. Deep Medicine by Eric Topol
 
 ## 2019
 1. Count of Monte Christo by Alexandre Dumas
