@@ -16,10 +16,11 @@ Here is my [CV](https://vikramansen.github.io/resume.pdf).
 Developing and understanding machine learning to extract insights from digital data in high-impact domains, including healthcare. I am currently studying the challenges that arise from the application of deep learning to clinical data. I am learning more about CNNs and supervised learning's applications.
 
 ## Current Project
-- October 2021 - Neurological disorders classification using CNNs
+- November 2021 - Neurological disorders classification using CNNs
 
 ## Announcements
 
+- January 2022 - My final year thesis has been sucessfully accepted 
 - October 2021- Applied for Research Intern at Tata Institiute of Technology.
 - June 2021 - Completed [Data Science Ethics](https://www.coursera.org/account/accomplishments/verify/Q67EG39EXSDH?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course) course offered by the 
 University of Michigan.
