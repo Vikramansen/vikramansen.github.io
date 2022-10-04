@@ -5,6 +5,9 @@ layout: default
 
 1. Death on the Nile by Agatha Christie
 2. Whale Done by Ken Blanchard
+3. Frederick Douglass: Prophet of Freedom by David W. Blight
+4. The Sparrow by Mary Doria Russell
+
 
 ## 2021
 
