@@ -7,8 +7,7 @@ layout: default
 <img class="profile-picture" src="website_image.jpg">
 
 Hi! I am master's student in the Computer Science at the [University of California, Davis]( https://www.ucdavis.edu). 
-Prior to joining UC Davis I worked as a software developer intern at Tata Communications Transformation Services's Automation Division, here I collabarated on integrating brand new core features into the existing database system. I also gradauted from SRM Institue of Science and Technology after comliting my batchelors in computer science.
-
+I also worked as a software developer intern at Tata Communications Transformation Services's Automation Division, here I collabarated on integrating brand new core features into the existing database system.
 Here is my [CV](https://vikramansen.github.io/resume.pdf).
 
 
