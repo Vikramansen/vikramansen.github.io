@@ -8,6 +8,7 @@ layout: default
 
 Hi! I am master's student in the Computer Science at the [University of California, Davis]( https://www.ucdavis.edu). 
 I also worked as a software developer intern at Tata Communications Transformation Services's Automation Division, here I collabarated on integrating brand new core features into the existing database system.
+
 Here is my [CV](https://vikramansen.github.io/resume.pdf).
 
 
