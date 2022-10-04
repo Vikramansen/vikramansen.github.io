@@ -6,17 +6,15 @@ layout: default
 
 <img class="profile-picture" src="website_image.jpg">
 
-Hi! I am master's student in the Computer Science at the [University of California, Davis]( https://www.ucdavis.edu),Davis, California. My research is focused on developing machine learning models in the healthcare sector. I have held a research intern position at [SPIHER]( https://spiher.ac.in/), Chennai, India in 2020, supervised by [Prof. Sikamani]( https://scholar.google.co.in/citations?user=_ftDrIQAAAAJ&hl=en).
+Hi! I am master's student in the Computer Science at the [University of California, Davis]( https://www.ucdavis.edu). 
 
 Here is my [CV](https://vikramansen.github.io/resume.pdf).
 
 
 ## Research Interests
 
-Developing and understanding machine learning to extract insights from digital data in high-impact domains, including healthcare. I am currently studying the challenges that arise from the application of deep learning to clinical data. I am learning more about CNNs and supervised learning's applications.
+Passionate about research in AI/ML, specifically Natural Language Processing. I believe in using my technical knowledge and skills to contribute to global, life-changing, and sustainable innovations which improve quality of life. I am learning more about CNNs and semi-supervised learning's applications.
 
-## Current Project
-- November 2021 - Neurological disorders classification using CNNs
 
 ## Announcements
 
