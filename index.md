@@ -20,11 +20,13 @@ Developing and understanding machine learning to extract insights from digital d
 
 ## Announcements
 
+- September 2022 - Started my Master's in Computer Science at the University of California, Davis.
+- May 2022 - Graduated from SRM Institiute of Science and Technology with First Class Distinction
+- March 2022 - Accepted Software Developer Internship at Tata Communications Transformation Services.
 - January 2022 - My final year thesis has been sucessfully accepted 
 - October 2021- Applied for Research Intern at Tata Institiute of Technology.
 - June 2021 - Completed [Data Science Ethics](https://www.coursera.org/account/accomplishments/verify/Q67EG39EXSDH?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course) course offered by the 
 University of Michigan.
-- March 2021 - Complted freelancing on forecasting demand for a new product using data analysis.
 - October 2020 - Accepted Research Internship oppurtunity at SPIHER.
 - March  2020 - Partcipation in the Smart India Hackathon.
 
