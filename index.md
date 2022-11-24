@@ -9,6 +9,8 @@ layout: default
 Hi! I am master's student in the Computer Science at the [University of California, Davis]( https://www.ucdavis.edu). Over this Fall quater, I have been working on Distributed Database Systems and ML rsearch.
 I've previously worked as a software developer intern at Tata Communications Transformation Services's Automation Division and I am curently interested in Summer Internship roles for 2023.
 
+Additionally, I love music especially Jazz, Soccer and Tennis. 
+
 
 ## Research Interests
 
