@@ -6,8 +6,8 @@ layout: default
 
 <img class="profile-picture" src="website_image.jpg">
 
-Hi! I am master's student in the Computer Science at the [University of California, Davis]( https://www.ucdavis.edu). 
-I also worked as a software developer intern at Tata Communications Transformation Services's Automation Division, here I collabarated on integrating brand new core features into the existing database system.
+Hi! I am master's student in the Computer Science at the [University of California, Davis]( https://www.ucdavis.edu). Over this Fall quater, I have been working on Distributed Database Systems and ML rsearch.
+I've previously worked as a software developer intern at Tata Communications Transformation Services's Automation Division and I am curently interested in Summer Internship roles for 2023.
 
 
 ## Research Interests
