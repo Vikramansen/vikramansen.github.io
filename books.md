@@ -1,6 +1,18 @@
 ---
 layout: default
 ---
+
+## 2024
+
+1. The Ministry for the Future by Kim Stanley Robinson
+
+## 2023
+
+1. The Echo of the Mirror by L.J. Kross
+2. Deep Medicine by Eric Topol
+3. Klara and the Sun by Kazuo Ishiguro
+4. Project Hail Mary by Andy Weir
+
 ## 2022
 
 1. Death on the Nile by Agatha Christie
@@ -9,11 +21,10 @@ layout: default
 4. The Sparrow by Mary Doria Russell
 5. A Silver of Darkness by C. J. Tudor
 
-
 ## 2021
 
 1. Deep Work by Cal Newport
-2. Ikigai: The Japanese Secret by Francesc Miralles 
+2. Ikigai: The Japanese Secret by Francesc Miralles
 3. Project Hail Mary by Andy Weir
 4. Snow Crash by Neal Stephenson
 5. Hyperion by Dan Simmons
@@ -22,20 +33,17 @@ layout: default
 ## 2020
 
 1. Shoe Dog by Phil Knight
-2. Prediction Machines by Ajay Agrawal 
-3. The 5 AM Club by Robin Sharma 
+2. Prediction Machines by Ajay Agrawal
+3. The 5 AM Club by Robin Sharma
 4. Neuromancer by William Gibson
 5. Ponniyin Selvan by Kalki Krishnamurthy
 6. Snow Crash by Neal Stephenson
 7. The Book of Why by Dana Mackenzie and Judea Pearl
-8. Deep Medicine by Eric Topol
 
 ## 2019
+
 1. Count of Monte Christo by Alexandre Dumas
 2. Dune by Frank Herbert
 3. The Martian by Andy Weir
 4. The Singularity Is Near by Ray Kurzweil
 5. Team of Rivals by Doris Kearns Goodwin
-
-
-
