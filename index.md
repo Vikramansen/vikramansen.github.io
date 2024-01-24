@@ -18,13 +18,13 @@ With my strong analytical and problem-solving skills, I have always been able to
 
 ## Projects
 
-# LimitlessTales - A Fine-tuned GPT-2 Model for Story Generation:
+LimitlessTales - A Fine-tuned GPT-2 Model for Story Generation:
 
 • Utilized Transfer learning techniques to fine-tune a pre-trained GPT-2 model on a custom dataset of textual data to generate high-quality stories based on user input.
 • Engineered an interactive front-end interface for users to seamlessly engage with the model, demonstrating its proficiency in adapting to diverse prompts and crafting cohesive narratives.
 • Integrated Text-to-Speech (TTS) and DALL·E capabilities, enhancing user immersion by providing auditory feedback and visual representations.
 
-# Electronic Health Record System:
+Electronic Health Record System:
 
 • Architected and developed a comprehensive EHR system using React.js, ensuring a responsive and user-friendly interface tailored for medical professionals and patients alike.
 • Seamlessly integrated a robust document management module with Amazon S3 buckets for efficient and secure storage of patient images; optimized retrieval times while ensuring HIPAA-compliant encryption and data protection.
