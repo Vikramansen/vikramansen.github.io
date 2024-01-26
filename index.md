@@ -16,7 +16,7 @@ With my strong analytical and problem-solving skills, I have always been able to
 
 # Projects
 
-### LimitlessTales - A Fine-tuned GPT-2 Model for Story Generation:
+## \* LimitlessTales - A Fine-tuned GPT-2 Model for Story Generation:
 
 • Utilized Transfer learning techniques to fine-tune a pre-trained GPT-2 model on a custom dataset of textual data to generate high-quality stories based on user input.
 
@@ -24,7 +24,7 @@ With my strong analytical and problem-solving skills, I have always been able to
 
 • Integrated Text-to-Speech (TTS) and DALL·E capabilities, enhancing user immersion by providing auditory feedback and visual representations.
 
-### Electronic Health Record System:
+## \* Electronic Health Record System:
 
 • Architected and developed a comprehensive EHR system using React.js, ensuring a responsive and user-friendly interface tailored for medical professionals and patients alike.
 
