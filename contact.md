@@ -11,4 +11,4 @@ is_contact: true
 
 1. [LinkedIn](https://www.linkedin.com/in/vikraman-senthil/)
 2. [Medium](https://medium.com/@vikramansen)
-3. [Github] (https://github.com/Vikramansen)
+3. [Github](https://github.com/Vikramansen)
