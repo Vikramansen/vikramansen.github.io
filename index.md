@@ -4,28 +4,26 @@ layout: default
 
 <img class="profile-picture" src="website_image.jpg">
 
-Hi! I am master's student in the Computer Science at the [University of California, Davis](https://www.ucdavis.edu). I am actively researching methods to reduce hallucinations in large language models in collaboration with UC Davis Health. Previously, I interned as a software developer at Tata Communications Automation Division. Currently, I am seeking full-time opportunities starting Summer 2024.
+I'm a Software Engineer at [Walmart Global Tech](https://www.walmartglobaltech.com), building ML infrastructure and platform systems. I work on Kubernetes-based LLM serving, GPU scheduling, and production retrieval systems that handle tens of thousands of queries per second.
 
-Additionally, I love Racing and Soccer.
+I hold an MS in Computer Science from [UC Davis](https://www.ucdavis.edu) and a BTech from [SRM Institute](https://www.srmist.edu.in). Previously, I worked on RAG systems and inference optimization at [Pure Storage](https://www.purestorage.com) and built HIPAA-compliant ML pipelines at [UC Davis Health](https://health.ucdavis.edu).
 
-# Research Interests
+I like racing, cricket, and coffee.
 
-I am a highly motivated individual with a passion for research in AI/ML and full stack development. I am dedicated to using my technical knowledge and skills to contribute to global, life-changing, and sustainable innovations that improve the quality of life for people around the world.
+# What I Work On
 
-With my strong analytical and problem-solving skills, I have always been able to develop and deliver innovative solutions to challenging problems. I am constantly seeking new opportunities to learn and grow, and am eager to be a part of a team that shares my passion for using technology to make a positive difference in the world.
+I spend most of my time close to production — building systems that serve ML models reliably at scale, debugging latency under real load, and figuring out how to make GPUs do more for less. I care about infrastructure that actually works when it matters.
 
 # Projects
 
-## \* LimitlessTales - A Fine-tuned GPT-2 Model for Story Generation:
+## [PromptEval](https://github.com/Vikramansen/llm-regression) — LLM Evaluation Platform
 
-• Utilized Transfer learning techniques to fine-tune a pre-trained GPT-2 model on a custom dataset of textual data to generate high-quality stories based on user input.
+An open-source platform for regression testing LLM systems. Supports scheduled monitoring, cross-model comparison, LLM-as-a-judge evaluation, and evolutionary prompt optimization. Built with FastAPI, React, and SQLite.
 
-• Engineered an interactive front-end interface for users to seamlessly engage with the model, demonstrating its proficiency in adapting to diverse prompts and crafting cohesive narratives.
+## [MercuryCS](https://github.com/Vikramansen/MercuryCS_Multilingual-RAG) — Multilingual RAG Agent
 
-• Integrated Text-to-Speech (TTS) and DALL·E capabilities, enhancing user immersion by providing auditory feedback and visual representations.
+A multilingual customer support agent for e-commerce. Uses embedding-based intent classification, a translate-process-translate architecture, and hard grounding thresholds to prevent hallucination. Includes an automated evaluation suite tracking faithfulness and latency.
 
-## \* Electronic Health Record System:
+## [MicroArch Branch Predictor](https://github.com/Vikramansen/MicroArch_Branch_Predictor_HPC_Sim) — HPC Simulation
 
-• Architected and developed a comprehensive EHR system using React.js, ensuring a responsive and user-friendly interface tailored for medical professionals and patients alike.
-
-• Seamlessly integrated a robust document management module with Amazon S3 buckets for efficient and secure storage of patient images; optimized retrieval times while ensuring HIPAA-compliant encryption and data protection.
+A cycle-accurate microarchitecture simulator for branch prediction strategies (GShare, Perceptron). Runs sensitivity analysis across ML, HPC, and server workloads.

@@ -9,6 +9,6 @@ is_contact: true
 
 ## Social
 
-1. [LinkedIn](https://www.linkedin.com/in/vikraman-senthil/)
+1. [LinkedIn](https://www.linkedin.com/in/vikramansen/)
 2. [Medium](https://medium.com/@vikramansen)
 3. [Github](https://github.com/Vikramansen)
