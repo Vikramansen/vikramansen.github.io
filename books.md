@@ -8,12 +8,13 @@ Stuff I've been into — books, games, movies, shows. No particular order within
 
 ## 2026
 
-1. Elden Ring: Nightreign (game)
+1. Forza Horizon 6 (game)
 2. Severance Season 2 (show)
 3. The Three-Body Problem by Liu Cixin (book — reread)
 4. Balatro (game)
 5. Death Stranding 2 (game)
 6. Conclave (movie)
+7. Project Hail Mary (movie)
 
 ## 2025
 
@@ -22,7 +23,7 @@ Stuff I've been into — books, games, movies, shows. No particular order within
 3. Andor Season 1 (show)
 4. The Hitchhiker's Guide to the Galaxy by Douglas Adams (book)
 5. Baldur's Gate 3 (game)
-6. Oppenheimer (movie — rewatch)
+6. Rainbow Six Siege (game — retry)
 7. Children of Time by Adrian Tchaikovsky (book)
 8. Hades II (game)
 9. The Wild Robot (movie)
