@@ -15,6 +15,9 @@ Stuff I've been into — books, games, movies, shows. No particular order within
 5. Death Stranding 2 (game)
 6. Conclave (movie)
 7. Project Hail Mary (movie)
+8. Obession (movie)
+9. House of the Dragon S2 (show)
+10. Rick and Morty (show)
 
 ## 2025
 
